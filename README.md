@@ -1,4 +1,5 @@
 `echo "source ~/zsh-aliases/aliases.zsh" >> ~/.zshrc`
+
 `source ~/.zshrc`
 
 ### > www
