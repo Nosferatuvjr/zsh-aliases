@@ -37,7 +37,7 @@ Example:
 ┌──(nosferatu㉿kali)-[~/]
 └─$ mkdir_cd teste
 
-┌──(jazz㉿kali)-[~/pepega]
+┌──(nosferatu㉿kali)-[~/teste]
 └─$ 
 ```
 
